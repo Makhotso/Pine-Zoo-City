@@ -1,0 +1,33 @@
+body{
+     padding    : 0;
+     margin     : 0;
+     font-family: Helvetica;
+}
+
+#header{
+      position: fixed;
+      top     : 0;
+      left    : 0;
+      z-index : 500;
+      width   :100%;
+      height  :50px;
+      background-image  : url('images/wood-bg.png');
+      background-repeat: repeat-x;
+}
+
+#header img{
+      display: block;
+      margin : auto;
+      height : 70%;
+      padding-top: 15px; 
+}
+
+#main-home {
+
+    height : 100px;
+    width: 100px;
+}
+
+#tabs-bottom{
+    padding-bottom: : 15px;;
+}
